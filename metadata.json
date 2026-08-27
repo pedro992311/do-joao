@@ -1,0 +1,6 @@
+{
+  "name": "VaultPay",
+  "description": "Dashboard financeiro pessoal moderno e profissional para controle, métricas e análise de vendas de contas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
